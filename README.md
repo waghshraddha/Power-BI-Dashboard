@@ -1,0 +1,1 @@
+Collected the required data, transformed it, merged required columns and changed into the required format, and did a data visualization using bar charts, line graphs and donuts and filter anf buttons to make it interactable 
